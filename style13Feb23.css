@@ -1,0 +1,11 @@
+
+
+/* default  browser styles and google devtools*/
+/* user agent stylesheets come from default style browser */
+/* some styles can be overriden using devtools */
+/* devtools are necessary esp with alot of code where you would need alot of of changes */
+
+h2{
+ color: red;
+ font-size: 60px;
+}
